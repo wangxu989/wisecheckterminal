@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/worker.png</file>
+        <file>img/bj.jpg</file>
+        <file>img/spc.png</file>
+        <file>img/return.png</file>
+        <file>img/exit.png</file>
+        <file>img/-.png</file>
+        <file>img/+.png</file>
+        <file>img/cancel.png</file>
+        <file>img/change1.png</file>
+        <file>img/change2.png</file>
+        <file>img/ret2.png</file>
+        <file>img/return3.png</file>
+        <file>img/2.png</file>
+        <file>img/3.jpg</file>
+        <file>img/spc.jpg</file>
+        <file>img/4.jpg</file>
+    </qresource>
+</RCC>
